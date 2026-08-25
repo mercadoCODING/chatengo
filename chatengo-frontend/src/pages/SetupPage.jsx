@@ -16,7 +16,7 @@ function SetupPage() {
 
   const handleStart = () => {
     if (!nickname.trim()) return;
-    navigate("/chat", {
+    navigate("/searching", {
       state: {
         nickname: nickname.trim(),
         preference,

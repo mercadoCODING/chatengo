@@ -1,4 +1,4 @@
-function ChatHeader({ nickname }) {
+/*function ChatHeader({ nickname }) {
   return (
     <div className="flex items-center justify-between px-4 py-3 border-b border-gray-200 dark:border-gray-800">
       <div className="flex items-center gap-2">
@@ -19,4 +19,6 @@ function ChatHeader({ nickname }) {
   );
 }
 
-export default ChatHeader;
+export default ChatHeader;*/
+
+//for testing muna
