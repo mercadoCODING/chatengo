@@ -1,0 +1,9 @@
+# --- React / Node (frontend) ---
+chatengo-frontend/node_modules/
+chatengo-frontend/dist/
+
+# --- Spring Boot (backend) ---
+chatengo/target/
+chatengo/.mvn/
+chatengo/*.iml
+chatengo/.idea/
