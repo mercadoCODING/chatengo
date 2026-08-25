@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import ChatHeader from "../components/ChatHeader";
+//import ChatHeader from "../components/ChatHeader";
 import UserBar from "../components/UserBar";
 import SystemNotice from "../components/SystemNotice";
 import MessageBubble from "../components/MessageBubble";
